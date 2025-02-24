@@ -1,3 +1,12 @@
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p>
+  <div align="right"> 
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+</div>
+  <H1><b> Victor Sérgio Silva Barros </b> </H1>
+  
+</p> 
+
 # Formação Machine Learning Specialist
 
 Este repositório contém materiais e exercícios relacionados à formação de Machine Learning Specialist oferecida pela [DIO](https://web.dio.me/track/formacao-machine-learning-specialist?tab=about).
@@ -40,7 +49,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ## Versioning
  
-1.3.0
+1.0.0
  
  
 ## Author
@@ -60,6 +69,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
   </p>  
 
-<p>Please follow github and join us!
-Thanks for visiting and happy coding!</p> 
+<p>Por favor, siga o github e junte-se a nós!
+Obrigado pela visita e boa codificação!</p> 
 
