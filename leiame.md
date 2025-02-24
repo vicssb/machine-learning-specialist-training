@@ -7,6 +7,9 @@
   
 </p> 
 
+<img src="./img/dio.png" alt="DIO Logo" width="200"/>
+<img src="./img/LogoMLS.jpg" alt="Machine Learning Specialist Logo" width="200"/>
+
 # Formação Machine Learning Specialist
 
 Este repositório contém materiais e exercícios relacionados à formação de Machine Learning Specialist oferecida pela [DIO](https://web.dio.me/track/formacao-machine-learning-specialist?tab=about).
@@ -70,5 +73,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
   </p>  
 
 <p>Por favor, siga o github e junte-se a nós!
-Obrigado pela visita e boa codificação!</p> 
+Obrigado pela visita e boa codificação!</p>
+
 
