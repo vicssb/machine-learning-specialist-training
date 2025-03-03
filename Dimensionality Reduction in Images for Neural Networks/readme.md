@@ -16,11 +16,24 @@ To convert a color image to grayscale, we average the RGB values of each pixel.
 ```python
 from PIL import Image
 import numpy as np
-
+'''
 def convert_to_grayscale(image_path):
     image = Image.open(image_path).convert('L')
     image.save('grayscale_image.png')
     return np.array(image)
+'''
+
+def convert_to_grayscale(image_path):
+    image = Image.open(image_path)
+    image_array = np.array(image)
+    
+    # Calcula a média ponderada dos valores RGB
+    grayscale_array = np.dot(image_array[...,:3], [0.2989, 0.5870, 0.1140])
+    
+    # Converte o array para uint8
+    grayscale_image = Image.fromarray(grayscale_array.astype(np.uint8))
+    grayscale_image.save('grayscale_image.png')
+    return grayscale_array
 ```
 
 ### Binary Conversion
