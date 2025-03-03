@@ -63,7 +63,7 @@ The resulting images will be saved as grayscale_image.png and binary_image.png i
 ### Image Comparison
 Here are the original, grayscale, and binary images side by side:
 
-<div style="display: flex; justify-content: space-around;"> <img src="./img/Lenna_(test_image).png" alt="Original Image" width="200"/> <img src="./img/grayscale_image.png" alt="Grayscale Image" width="200"/> <img src="./img/binary_image.png" alt="Binary Image" width="200"/> </div>
+<div style="display: flex; justify-content: space-around;"> <img src="/img/Lenna_(test_image).png" alt="Original Image" width="200"/> <img src="/img/grayscale_image.png" alt="Grayscale Image" width="200"/> <img src="/img/binary_image.png" alt="Binary Image" width="200"/> </div>
 
 ### References
 [Dimensionality Reduction in Images for Neural Networks](https://web.dio.me/lab/desafio-de-projeto-reducao-de-dimensionalidade-em-imagens-para-redes-neurais/learning/2ab47376-507c-416f-8eee-07e6dd1d696e)
