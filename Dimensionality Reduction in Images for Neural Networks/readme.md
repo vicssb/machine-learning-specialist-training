@@ -33,7 +33,7 @@ def convert_to_grayscale(image_path):
     
     # Converte o array para uint8
     grayscale_image = Image.fromarray(grayscale_array.astype(np.uint8))
-    grayscale_image.save('grayscale_image.png')
+    grayscale_image.save('./img/grayscale_image.png')
     return grayscale_array
 ```
 
@@ -43,7 +43,7 @@ To convert a grayscale image to binary, we threshold the pixel values.
 ```python
 def convert_to_binary(image_array, threshold=128):
     binary_image = (image_array > threshold) * 255
-    Image.fromarray(binary_image.astype(np.uint8)).save('binary_image.png')
+    Image.fromarray(binary_image.astype(np.uint8)).save('./img/binary_image.png')
     return binary_image
 ```
 
