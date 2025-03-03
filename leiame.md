@@ -27,6 +27,7 @@ A formação de Machine Learning Specialist tem como objetivo capacitar profissi
 - Redes Neurais
 - Aprendizado Profundo (Deep Learning)
 - Projetos Práticos
+  - [Redução de Dimensionalidade em Imagens para Redes Neurais](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
 
 ## Pré-requisitos
 

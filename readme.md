@@ -27,6 +27,7 @@ The Machine Learning Specialist training aims to train professionals to work in 
 - Neural Networks
 - Deep Learning
 - Practical Projects
+  - [Dimensionality Reduction in Images for Neural Networks](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
 
 ## Prerequisites
 
