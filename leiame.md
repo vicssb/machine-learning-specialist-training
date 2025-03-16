@@ -29,6 +29,7 @@ A formação de Machine Learning Specialist tem como objetivo capacitar profissi
 - Projetos Práticos
   - [Redução de Dimensionalidade em Imagens para Redes Neurais](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
   - [Treinamento de Redes Neurais com Transfer Learning](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/leiame.md)
+  - [Cálculo de Métricas de Avaliação de Aprendizado](https://github.com/vicssb/calculation-of-learning-evaluation-metrics/blob/main/leiame.md)
   
 ## Pré-requisitos
 
