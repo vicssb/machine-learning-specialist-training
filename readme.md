@@ -30,6 +30,8 @@ The Machine Learning Specialist training aims to train professionals to work in 
   - [Dimensionality Reduction in Images for Neural Networks](https://github.com/vicssb/Dimensionality-Reduction-in-Images-for-Neural-Networks)
   - [Training Neural Networks with Transfer Learning](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning)
   - [Calculation of learning evaluation metrics](https://github.com/vicssb/calculation-of-learning-evaluation-metrics)
+  - [Creating a Database and Training the YOLO Network](https://github.com/vicssb/Object-detection-with-the-YOLO-network.git)
+
 
 
 ## Prerequisites
